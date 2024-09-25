@@ -1,0 +1,19 @@
+.custom-img {
+    width: 500px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    
+  }
+
+  h1{
+    margin-top: 30px;
+    color: #3A6D8C;
+  }
+  p{
+    color: #640D5F;
+    font-weight: bold;
+    font-family:'Roboto';
+  }
+  
